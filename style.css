@@ -19,7 +19,9 @@ h2 {
 }
 
 #headerwords{
-    position: absolute;
+    z-index: 1;
+
+    justify-content: center;
 }
 
 #siteheader{
