@@ -20,7 +20,8 @@ h2 {
 
 #headerwords{
     z-index: 1;
-
+    position: absolute;
+    
     justify-content: center;
 }
 
