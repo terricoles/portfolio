@@ -5,3 +5,12 @@ body {
 h1 {
     font-family: 'Rubik', sans-serif;
 }
+
+#header{
+    width: 600px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 10%;
+    z-index: 2;
+    position: relative;
+}
