@@ -20,6 +20,10 @@ h2 {
     top: 0px;
 }
 
+#headerwords{
+    position: relative;
+}
+
 #siteheader{
     opacity: 0.5;
 }
